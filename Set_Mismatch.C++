@@ -22,7 +22,7 @@ Constraints:
 1 <= nums[i] <= 104
 
 
-
+old code:
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
